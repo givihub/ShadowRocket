@@ -6,3 +6,25 @@ jetbrains.com
 nnmclub.to
 lovable.dev
 reddit.com
+# ===== Matrix / Element =====
+matrix.org
+matrix-client.matrix.org
+federation.matrix.org
+identity.matrix.org
+element.io
+app.element.io
+vector.im
+
+# Media / CDN
+usercontent.matrix.org
+media.matrix.org
+matrix.org.cdn.cloudflare.net
+matrix.org.cdn.fastly.net
+
+# VoIP
+turn.matrix.org
+voip.matrix.org
+
+# Packages
+packages.element.io
+packages.matrix.org
