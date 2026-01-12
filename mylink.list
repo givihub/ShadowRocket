@@ -1,35 +1,137 @@
+# ================================
+# mylink.list — Unified Domain List
+# (domains only, for RULE-SET)
+# ================================
+
+# Core custom domains
 coda.io
-myip2.ru
+lovable.dev
 getoutline.org
 notebooklm.google.com
+nnmclub.to
+myip2.ru
+reddit.com
+
+# JetBrains
 jetbrains.com
 jetbrains.ai
 jb-cdn.com
 jetbrains-cdn.com
-nnmclub.to
-lovable.dev
-reddit.com
-# ===== Matrix / Element =====
+
+# Matrix / Element
 matrix.org
-matrix-client.matrix.org
-federation.matrix.org
-identity.matrix.org
 element.io
-app.element.io
 vector.im
-
-# Media / CDN
-usercontent.matrix.org
 media.matrix.org
-matrix.org.cdn.cloudflare.net
-matrix.org.cdn.fastly.net
+usercontent.matrix.org
 
-# VoIP
-turn.matrix.org
-voip.matrix.org
+# Community/social (from community.list)
+4pda.to
+canva.com
+chatgpt.com
+discord.com
+facebook.com
+flibusta.is
+hdrezka.me
+instagram.com
+kahoot.it
+kinozal.tv
+notion.so
+rezka.ag
+rutor.info
+rutracker.org
+supercell.com
+threads.net
+tiktok.com
+tronlink.org
+whatsapp.com
 
-# Packages
-packages.element.io
-packages.matrix.org
+# YouTube / Google media
+youtube.com
+youtu.be
+googleapis.com
+googleusercontent.com
+googlevideo.com
+gstatic.com
+ytimg.com
+ytstatic.com
 
-familysearch.org
+# Social / Media platforms
+fbcdn.net
+fbsbx.com
+x.com
+twitter.com
+twimg.com
+twitch.tv
+meta.com
+quora.com
+strava.com
+medium.com
+wa.me
+
+# Tools / Services
+aol.com
+bintray.com
+cloudflare.com
+digitalocean.com
+hostinger.com
+intel.com
+mixcloud.com
+netpeaksoftware.com
+notionusercontent.com
+proton.me
+realguide.com
+redislabs.com
+semrush.com
+setapp.com
+splunkcloud.com
+x-minus.pro
+
+# AI / LLM services
+anthropic.com
+claude.ai
+copilot.microsoft.com
+deepl.com
+elevenlabs.io
+grok.com
+manus.im
+openai.com
+sora.com
+searchgpt.com
+x.ai
+
+# Shopping / entertainment
+cub.red
+dyson.com
+iherb.com
+ikea.com
+seasonvar.ru
+skladchik.com
+skladchina.biz
+patreon.com
+premierleague.com
+spotifycdn.com
+scdn.co
+
+# Games
+anzu-us.com
+clashofclans.com
+boombeachgame.com
+gameloft.com
+
+# Network / diagnostics
+browserleaks.com
+ifconfig.me
+ipinfo.io
+maxmind.com
+speedtest.net
+
+# Analytics / data platforms
+datacamp.com
+redis.io
+tableau.com
+tableausoftware.com
+tableauusercontent.com
+
+# Misc / news
+euronews.com
