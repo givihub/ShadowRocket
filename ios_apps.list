@@ -1,0 +1,22 @@
+# ===============================
+# iOS Apps allow-list
+# (Instagram, YouTube, Meta)
+# ===============================
+
+# --- Instagram / Meta ---
+instagram.com
+cdninstagram.com
+fbcdn.net
+fbsbx.com
+graph.facebook.com
+i.instagram.com
+
+# --- YouTube / Google ---
+youtube.com
+youtu.be
+googlevideo.com
+youtubei.googleapis.com
+gstatic.com
+googleapis.com
+ytimg.com
+ytstatic.com
